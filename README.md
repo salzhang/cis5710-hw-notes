@@ -1,6 +1,7 @@
 # Docker-Setup
-### Function 1: Show Waveform 
-First, open your exported ***.vcd*** file using GTKWave and the ***SST*** panel will be on your left. 
+### Step 1: Pull latest image 
+Run the following code inside your commind line window.
+`docker pull cis5710/hw-base:latest`
     
 Then, expand the SST tree to select a module. On the bottom left is the Type/Signals panel, you can ***double-click*** to show the waveform of certain signals.
 
