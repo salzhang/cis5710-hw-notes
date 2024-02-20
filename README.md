@@ -4,10 +4,10 @@ First, run the following code inside your commind line window: `docker pull cis5
     
 Then, run the following code inside your command line window: `docker run -it cis5710/hw-base:latest /bin/bash`.
 
-After that, open Docker Desktop and you will see the new running container.
+After that, open Docker Desktop and you will see a new running container.
 
-### Function 2: Markers 
-If you click the ***Markers*** tab on the top left. Many different options would pop up.
+### Step 2: Create ssh key and add it to your account 
+First, open VSCode to connect to the new container. You can click the down left button, and select ***Attach to Running Container***.
     
 ***Show-Change Marker Data:***    *Alt+M*   
 Once you click this option, a window allowing you to control the ___location & name___ of the marker would show up. You can enter the ___specific time___ you want to monitor on ___the left column___ and you can ___rename the marker___ by putting words into ___the right column___ to replace their default name.   
