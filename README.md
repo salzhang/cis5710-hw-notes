@@ -1,5 +1,4 @@
 # Docker-Setup
-# GTKWave Note
 ### Function 1: Show Waveform 
 First, open your exported ***.vcd*** file using GTKWave and the ***SST*** panel will be on your left. 
     
