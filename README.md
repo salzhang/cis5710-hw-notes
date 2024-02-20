@@ -41,5 +41,5 @@ git push
 Finally, you must initialize the git submodules that this repo uses, with:
 ```
 git submodule update --init --recursive riscv-tests/
-
+```
 
