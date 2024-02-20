@@ -16,6 +16,7 @@ Thirdly, create an empty repo on github. Remember its name.
 
 Then, open the ***id_ed25519.pub*** file in ***.ssh*** folder. Copy the public key in the file.
 
-After that, you can add new SSH keys to your github account. Click *Settings* -> *SSH and GPG keys* -> *New SSH key* -> Name the tilte and paste the public key -> Add SSH key
+After that, you can add new SSH key to your github account under following instructions. 
+***Settings*** -> ***SSH and GPG keys*** -> ***New SSH key*** -> Name the tilte and paste the public key -> ***Add SSH key***
 
 
