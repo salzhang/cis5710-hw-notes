@@ -1,11 +1,10 @@
 # Docker-Setup
 ### Step 1: Pull latest image 
-Run the following code inside your commind line window.
-`docker pull cis5710/hw-base:latest`
+First, run the following code inside your commind line window: `docker pull cis5710/hw-base:latest`
     
-Then, expand the SST tree to select a module. On the bottom left is the Type/Signals panel, you can ***double-click*** to show the waveform of certain signals.
+Then, run the following code inside your command line window: `docker run -it cis5710/hw-base:latest /bin/bash`.
 
-Moreoevr, if you want to see the bit waveform, you can ___double-click___ the signal or select the signal and press ***f3***, then you can have every-bit waveform.
+After that, open Docker Desktop and you will see the new running container.
 
 ### Function 2: Markers 
 If you click the ***Markers*** tab on the top left. Many different options would pop up.
