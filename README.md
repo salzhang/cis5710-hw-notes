@@ -38,8 +38,12 @@ Then, push those changes back to your private Github repo:
 ```
 git push
 ```
-Finally, you must initialize the git submodules that this repo uses, with:
+
+### Step 4: Push modification to origin
+Run the following codes to push your changed file to your Github repo:
 ```
-git submodule update --init --recursive riscv-tests/
+$ git add .
+$ git commit -m "remote upload"
+$ git push origin main
 ```
 
