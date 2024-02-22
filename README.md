@@ -58,7 +58,8 @@ Then, use ```git clone``` to clone your Github repo inside your biglab:
 git clone git@github.com:YOURUSERNAME/YOURREPO.git
 ```
 
-After that you will see something like:
+After that you will see something like, enter ***yes***:
 ```
 Cloning into 'cis5710'... The authenticity of host 'github.com (140.82.114.4)' can't be established. ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM. Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
+
