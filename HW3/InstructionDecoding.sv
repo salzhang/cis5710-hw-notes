@@ -1,4 +1,7 @@
-// components of the instruction
+// RV opcodes are 7 bits
+`define OPCODE_SIZE 6:0
+
+  // components of the instruction
   wire [6:0] insn_funct7;
   wire [4:0] insn_rs2;
   wire [4:0] insn_rs1;
