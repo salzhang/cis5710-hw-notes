@@ -47,3 +47,13 @@ $ git commit -m "remote upload"
 $ git push origin main
 ```
 
+### Step 5: Clone the repo in biglab
+First, in biglab.seas.upenn.edu, run the following code to add Vivado to your path:
+```
+source /home1/c/cis5710/tools/cis5710-update-path.sh
+```
+
+Then, use ```git clone``` to clone your Github repo inside your biglab:
+```
+git clone git@github.com:YOURUSERNAME/YOURREPO.git
+```
