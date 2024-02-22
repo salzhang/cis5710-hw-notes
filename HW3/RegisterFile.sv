@@ -1,4 +1,6 @@
+//registers are 32bits in RiscV
 `define REG_SIZE 31:0
+
 module RegFile (
     input logic [4:0] rd, //rd is the destination to write
     input logic [`REG_SIZE] rd_data,//rd_data is the data to be written
