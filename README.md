@@ -60,7 +60,9 @@ git clone git@github.com:YOURUSERNAME/YOURREPO.git
 
 After that you will a message like below, enter ***yes*** to successfully clone the repo:
 ```
-Cloning into 'cis5710'... The authenticity of host 'github.com (140.82.114.4)' can't be established. ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM. Are you sure you want to continue connecting (yes/no/[fingerprint])?
+Cloning into 'cis5710'... The authenticity of host 'github.com (140.82.114.4)' can't be established.
+ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 
-You can ```cd``` into the corresponding *hw* folder to run ```make impl``` and ```make zip```
+You can ```cd``` into the corresponding *hw* folder to run ```make impl``` and ```make zip```.
